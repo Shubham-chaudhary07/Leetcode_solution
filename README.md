@@ -36,4 +36,9 @@ In this solution are there for particular question's
 |  |
 | ------- |
 | [2119-a-number-after-a-double-reversal](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2119-a-number-after-a-double-reversal) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2169-count-operations-to-obtain-zero) |
+## Simulation
+|  |
+| ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
