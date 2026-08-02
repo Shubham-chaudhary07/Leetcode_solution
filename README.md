@@ -32,6 +32,7 @@ In this solution are there for particular question's
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0075-sort-colors) |
+| [0162-find-peak-element](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0162-find-peak-element) |
 | [0486-predict-the-winner](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0486-predict-the-winner) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1929-concatenation-of-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1929-concatenation-of-array) |
@@ -77,4 +78,5 @@ In this solution are there for particular question's
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
