@@ -35,6 +35,7 @@ In this solution are there for particular question's
 | [0162-find-peak-element](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0162-find-peak-element) |
 | [0486-predict-the-winner](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1672-richest-customer-wealth) |
@@ -51,6 +52,7 @@ In this solution are there for particular question's
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2169-count-operations-to-obtain-zero) |
