@@ -8,6 +8,7 @@ In this solution are there for particular question's
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ In this solution are there for particular question's
 | [0075-sort-colors](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0075-sort-colors) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -42,6 +44,7 @@ In this solution are there for particular question's
 | [1920-build-array-from-permutation](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
