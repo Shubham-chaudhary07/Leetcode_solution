@@ -21,6 +21,7 @@ In this solution are there for particular question's
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3731-find-missing-elements) |
@@ -34,6 +35,7 @@ In this solution are there for particular question's
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0162-find-peak-element) |
 | [0486-predict-the-winner](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0877-stone-game) |
@@ -50,6 +52,7 @@ In this solution are there for particular question's
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
