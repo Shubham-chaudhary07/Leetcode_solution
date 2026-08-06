@@ -63,6 +63,7 @@ In this solution are there for particular question's
 | [2119-a-number-after-a-double-reversal](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2469-convert-the-temperature](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2469-convert-the-temperature) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
 | ------- |
@@ -104,4 +105,8 @@ In this solution are there for particular question's
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1672-richest-customer-wealth) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
