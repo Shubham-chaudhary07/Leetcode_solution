@@ -37,6 +37,7 @@ In this solution are there for particular question's
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0162-find-peak-element) |
@@ -102,6 +103,7 @@ In this solution are there for particular question's
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0704-binary-search) |
 ## Prefix Sum
