@@ -42,6 +42,7 @@ In this solution are there for particular question's
 | [0162-find-peak-element](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0486-predict-the-winner) |
+| [0704-binary-search](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -102,6 +103,7 @@ In this solution are there for particular question's
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0162-find-peak-element) |
+| [0704-binary-search](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
