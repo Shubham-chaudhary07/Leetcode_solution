@@ -59,6 +59,7 @@ In this solution are there for particular question's
 | [1920-build-array-from-permutation](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3477-fruits-into-baskets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -86,6 +87,7 @@ In this solution are there for particular question's
 | [1920-build-array-from-permutation](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2169-count-operations-to-obtain-zero) |
+| [3477-fruits-into-baskets-ii](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3477-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +118,7 @@ In this solution are there for particular question's
 | [0035-search-insert-position](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0704-binary-search) |
+| [3477-fruits-into-baskets-ii](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3477-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -136,4 +139,12 @@ In this solution are there for particular question's
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
