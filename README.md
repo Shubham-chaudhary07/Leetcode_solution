@@ -6,6 +6,7 @@ In this solution are there for particular question's
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -35,6 +36,7 @@ In this solution are there for particular question's
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
