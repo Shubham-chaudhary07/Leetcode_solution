@@ -8,6 +8,7 @@ In this solution are there for particular question's
 | ------- |
 | [0001-two-sum](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3731-find-missing-elements) |
@@ -25,6 +26,7 @@ In this solution are there for particular question's
 | [0075-sort-colors](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -48,6 +50,7 @@ In this solution are there for particular question's
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0704-binary-search) |
@@ -70,6 +73,7 @@ In this solution are there for particular question's
 | [0027-remove-element](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -119,6 +123,7 @@ In this solution are there for particular question's
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0704-binary-search) |
 | [3477-fruits-into-baskets-ii](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3477-fruits-into-baskets-ii) |
 ## Prefix Sum
