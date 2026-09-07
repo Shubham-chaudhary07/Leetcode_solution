@@ -10,6 +10,7 @@ In this solution are there for particular question's
 | [0217-contains-duplicate](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3731-find-missing-elements) |
 ## String
@@ -18,6 +19,7 @@ In this solution are there for particular question's
 | [0344-reverse-string](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1768-merge-strings-alternately) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -38,6 +40,7 @@ In this solution are there for particular question's
 ## Counting
 |  |
 | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
 |  |
@@ -173,4 +176,5 @@ In this solution are there for particular question's
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
