@@ -103,6 +103,7 @@ In this solution are there for particular question's
 | [2469-convert-the-temperature](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3870-count-commas-in-range) |
 ## Simulation
 |  |
 | ------- |
