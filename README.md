@@ -100,6 +100,7 @@ In this solution are there for particular question's
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2169-count-operations-to-obtain-zero) |
+| [2235-add-two-integers](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
