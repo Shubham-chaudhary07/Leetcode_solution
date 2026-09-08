@@ -74,6 +74,7 @@ In this solution are there for particular question's
 | [1920-build-array-from-permutation](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2090-k-radius-subarray-averages](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2090-k-radius-subarray-averages) |
 | [3477-fruits-into-baskets-ii](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3477-fruits-into-baskets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3731-find-missing-elements) |
@@ -180,4 +181,5 @@ In this solution are there for particular question's
 | [0643-maximum-average-subarray-i](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2090-k-radius-subarray-averages](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2090-k-radius-subarray-averages) |
 <!---LeetCode Topics End-->
