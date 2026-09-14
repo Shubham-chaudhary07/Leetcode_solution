@@ -10,6 +10,7 @@ In this solution are there for particular question's
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -61,6 +62,7 @@ In this solution are there for particular question's
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
