@@ -36,6 +36,7 @@ In this solution are there for particular question's
 | [0217-contains-duplicate](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -68,6 +69,7 @@ In this solution are there for particular question's
 | [0643-maximum-average-subarray-i](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -136,6 +138,7 @@ In this solution are there for particular question's
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
@@ -164,6 +167,7 @@ In this solution are there for particular question's
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -186,4 +190,20 @@ In this solution are there for particular question's
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2090-k-radius-subarray-averages) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
