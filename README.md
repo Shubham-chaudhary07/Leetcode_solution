@@ -125,6 +125,7 @@ In this solution are there for particular question's
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -206,4 +207,8 @@ In this solution are there for particular question's
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
