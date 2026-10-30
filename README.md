@@ -211,4 +211,5 @@ In this solution are there for particular question's
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
