@@ -9,6 +9,7 @@ In this solution are there for particular question's
 | [0001-two-sum](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -92,6 +93,7 @@ In this solution are there for particular question's
 | [0075-sort-colors](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -217,6 +219,7 @@ In this solution are there for particular question's
 | [0021-merge-two-sorted-lists](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 ## Graph Theory
 |  |
 | ------- |
