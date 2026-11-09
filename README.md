@@ -22,6 +22,7 @@ In this solution are there for particular question's
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1768-merge-strings-alternately) |
@@ -89,6 +90,7 @@ In this solution are there for particular question's
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0075-sort-colors) |
@@ -126,6 +128,7 @@ In this solution are there for particular question's
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0877-stone-game) |
@@ -238,4 +241,8 @@ In this solution are there for particular question's
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
