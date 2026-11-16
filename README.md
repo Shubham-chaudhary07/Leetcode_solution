@@ -105,6 +105,7 @@ In this solution are there for particular question's
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -135,6 +136,7 @@ In this solution are there for particular question's
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0486-predict-the-winner](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0486-predict-the-winner) |
@@ -222,6 +224,7 @@ In this solution are there for particular question's
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0083-remove-duplicates-from-sorted-list) |
