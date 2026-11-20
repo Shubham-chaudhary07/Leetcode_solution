@@ -27,6 +27,7 @@ In this solution are there for particular question's
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2390-removing-stars-from-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -127,6 +128,7 @@ In this solution are there for particular question's
 | [1920-build-array-from-permutation](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2169-count-operations-to-obtain-zero) |
+| [2390-removing-stars-from-a-string](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2390-removing-stars-from-a-string) |
 | [3477-fruits-into-baskets-ii](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/3477-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
@@ -251,4 +253,8 @@ In this solution are there for particular question's
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
