@@ -24,6 +24,7 @@ In this solution are there for particular question's
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -103,6 +104,7 @@ In this solution are there for particular question's
 | [0189-rotate-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1768-merge-strings-alternately) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Math
@@ -125,6 +127,7 @@ In this solution are there for particular question's
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2169-count-operations-to-obtain-zero) |
@@ -256,5 +259,6 @@ In this solution are there for particular question's
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
