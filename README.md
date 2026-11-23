@@ -79,6 +79,7 @@ In this solution are there for particular question's
 | [0877-stone-game](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
@@ -116,6 +117,7 @@ In this solution are there for particular question's
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2169-count-operations-to-obtain-zero) |
@@ -177,6 +179,7 @@ In this solution are there for particular question's
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
@@ -261,4 +264,12 @@ In this solution are there for particular question's
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2390-removing-stars-from-a-string) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
