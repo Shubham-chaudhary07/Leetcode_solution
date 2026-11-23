@@ -75,6 +75,7 @@ In this solution are there for particular question's
 | [0486-predict-the-winner](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0912-sort-an-array) |
@@ -129,6 +130,7 @@ In this solution are there for particular question's
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1929-concatenation-of-array) |
@@ -262,6 +264,7 @@ In this solution are there for particular question's
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2390-removing-stars-from-a-string) |
 ## Design
