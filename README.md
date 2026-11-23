@@ -23,6 +23,7 @@ In this solution are there for particular question's
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -265,6 +266,7 @@ In this solution are there for particular question's
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -277,4 +279,8 @@ In this solution are there for particular question's
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
