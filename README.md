@@ -25,6 +25,7 @@ In this solution are there for particular question's
 | [0005-longest-palindromic-substring](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -266,6 +267,7 @@ In this solution are there for particular question's
 | ------- |
 | [0682-baseball-game](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Shubham-chaudhary07/Leetcode_solution/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
